@@ -46,7 +46,7 @@ hrtimer.end('my test')
 <!-- div -->
 
 ### <a id="hrtimer-start"></a>`hrtimer.start(label)`
-<a href="#hrtimer-start">#</a> [&#x24C8;](https://github.com/DannyNemer/hrtimer/blob/master/hrtimer.js#L26 "View in source") [&#x24C9;][1]
+<a href="#hrtimer-start">#</a> [&#x24C8;](https://github.com/DannyNemer/hrtimer/blob/master/hrtimer.js#L25 "View in source") [&#x24C9;][1]
 
 Starts a high-resolution timer (with precision in microseconds) identified by `label`. Use `hrtimer.end(label)` to print the timer's current value.
 
@@ -60,7 +60,7 @@ Starts a high-resolution timer (with precision in microseconds) identified by `l
 <!-- div -->
 
 ### <a id="hrtimer-end"></a>`hrtimer.end(label)`
-<a href="#hrtimer-end">#</a> [&#x24C8;](https://github.com/DannyNemer/hrtimer/blob/master/hrtimer.js#L38 "View in source") [&#x24C9;][1]
+<a href="#hrtimer-end">#</a> [&#x24C8;](https://github.com/DannyNemer/hrtimer/blob/master/hrtimer.js#L36 "View in source") [&#x24C9;][1]
 
 Prints the current high-resolution value of a timer initiated with `hrtimer.start(label)`.
 

@@ -20,7 +20,6 @@ var _times = new Map()
  *
  * @static
  * @memberOf hrtimer
- * @category Profiling
  * @param {string} label The timer identifier.
  */
 exports.start = function (label) {
@@ -32,7 +31,6 @@ exports.start = function (label) {
  *
  * @static
  * @memberOf hrtimer
- * @category Profiling
  * @param {string} label The timer identifier.
  */
 exports.end = function (label) {
