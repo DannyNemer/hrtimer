@@ -11,7 +11,7 @@ var util = require('dantil')
  * Used as a key-value map for timers.
  *
  * @private
- * @type Map
+ * @type {Map}
  */
 var _times = new Map()
 
