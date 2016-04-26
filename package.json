@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "A high-resolution timer for Node.js.",
   "main": "hrtimer.js",
+  "files": [
+    "hrtimer.js"
+  ],
   "directories": {
     "doc": "doc"
   },
